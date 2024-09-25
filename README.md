@@ -22,4 +22,4 @@ python run_experiment.py --configs  configs/halfcheetah-medium-v2.yaml
 
 ## Result
 
-![image]([https://github.com/ML-Group-SDU/QFAE/tree/master/img/result.jpg](https://github.com/ML-Group-SDU/QFAE/blob/master/img/result.jpg))
+![image](img/result.jpg)
