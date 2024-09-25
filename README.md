@@ -2,7 +2,7 @@
 This repository contains the source code for "QFAE: Q-Function guided Action Exploration for offline deep reinforcement learning"
 
 ## Getting started
-DiffAIL is evaluated on MuJoCo continuous control tasks in OpenAI gym. It is trained using PyTorch 1.13.1+cu117 and Python 3.9.
+QFAE is evaluated on MuJoCo continuous control tasks in OpenAI gym. It is trained using PyTorch 1.13.1+cu117 and Python 3.9.
 ```bash
 # install pytorch and other lib
 conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
