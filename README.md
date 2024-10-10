@@ -23,3 +23,17 @@ python run_experiment.py --configs  configs/halfcheetah-medium-v2.yaml
 ## Result
 
 ![image](img/result.jpg)
+
+## Citation
+
+If you use this code for your research, please consider citing the paper:
+
+```bash
+@article{PANG2025111032,
+title = {QFAE: Q-Function guided Action Exploration for offline deep reinforcement learning},
+journal = {Pattern Recognition},
+volume = {158},
+pages = {111032},
+year = {2025},
+}
+```
