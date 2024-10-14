@@ -31,6 +31,7 @@ If you use this code for your research, please consider citing the paper:
 ```bash
 @article{PANG2025111032,
 title = {QFAE: Q-Function guided Action Exploration for offline deep reinforcement learning},
+author = {Teng Pang and Guoqiang Wu and Yan Zhang and Bingzheng Wang and Yilong Yin},
 journal = {Pattern Recognition},
 volume = {158},
 pages = {111032},
